@@ -3,7 +3,7 @@ require_relative '../lib/draw_logic'
 require_relative '../lib/game_logic'
 cells = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 # rubocop:disable Metrics/MethodLength
-
+# changes
 def players_info
   puts 'Welcome to Ruby\'s Tic Tac Toe!'
   begin
